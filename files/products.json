@@ -1,0 +1,8 @@
+[
+  {"id":1,"name":"Gaming Laptop","price":65000},
+  {"id":2,"name":"Smartphone X12","price":28999},
+  {"id":3,"name":"Wireless Headphones","price":4500},
+  {"id":4,"name":"Mech Keyboard","price":6200},
+  {"id":5,"name":"4K Monitor 27\"","price":32000},
+  {"id":6,"name":"Gaming Mouse","price":2800}
+]

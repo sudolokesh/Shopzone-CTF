@@ -1,0 +1,10 @@
+{
+  "name": "shopzone-ctf",
+  "version": "2.0.0",
+  "description": "Deliberately vulnerable web app for CTF training. Run only on localhost / isolated lab network.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
